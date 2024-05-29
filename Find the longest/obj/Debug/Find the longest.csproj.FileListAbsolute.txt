@@ -1,0 +1,7 @@
+D:\C#DailyTest\NetProgect\Find the longest\Find the longest\bin\Debug\Find the longest.exe.config
+D:\C#DailyTest\NetProgect\Find the longest\Find the longest\bin\Debug\Find the longest.exe
+D:\C#DailyTest\NetProgect\Find the longest\Find the longest\bin\Debug\Find the longest.pdb
+D:\C#DailyTest\NetProgect\Find the longest\Find the longest\obj\Debug\Find the longest.csproj.AssemblyReference.cache
+D:\C#DailyTest\NetProgect\Find the longest\Find the longest\obj\Debug\Find the longest.csproj.CoreCompileInputs.cache
+D:\C#DailyTest\NetProgect\Find the longest\Find the longest\obj\Debug\Find the longest.exe
+D:\C#DailyTest\NetProgect\Find the longest\Find the longest\obj\Debug\Find the longest.pdb
